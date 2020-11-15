@@ -1,8 +1,27 @@
 # day1
 
+## Python 개발 환경
+
+
+### Jupyter Notebook
+
+#### iPython 동작
+
+<img src='https://ipython.org/ipython-doc/3/_images/notebook_components.png' width='500'>
+- https://ipython.org/ipython-doc/3/development/how_ipython_works.html
+
+
+### pyenv 와 anaconda
+
+pyenv 를 기반을 파이썬 환경으 구성:
+ - https://codingcoding.tistory.com/1077
+
+
+---
+## Python
+
 1. 파이썬 : [파이썬,wikipedia](https://ko.wikipedia.org/wiki/파이썬)
 2. 파이썬 버전표: [파이썬 버전표,wikipedia ](https://ko.wikipedia.org/wiki/파이썬의_역사#버전_표)
-
 
 #### The zen of Python
 
@@ -35,3 +54,23 @@ Python 3.8.2 (default, Jul 16 2020, 14:00:26)
 >>> import this
 The Zen of Python, by Tim Peters
 ```
+
+
+---
+파이썬을 사용한 모든 곳?: https://github.com/vinta/awesome-python
+
+
+## Data model
+
+#### Dynamic Typed Language
+
+<img src='https://pedrorijo.com/assets/img/static-dynamic-languages.png' width='500'>
+
+https://pedrorijo.com/blog/strings-as-types/
+
+
+
+
+#### Dict
+
+hash type: [해시테이블, wikipedia](https://ko.wikipedia.org/wiki/해시_테이블)
