@@ -11,7 +11,16 @@
 - https://ipython.org/ipython-doc/3/development/how_ipython_works.html
 
 
-### pyenv 와 anaconda
+#### conda 일반명령
+
+ - https://copycoding.tistory.com/62
+ 
+
+#### conda 가상환경에 새 커널 추가
+
+ - [conda 가상환경에 커널추가](https://medium.com/@5eo1ab/jupyter-notebook%EC%97%90-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-kernel-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-ed5261a7e0e6)
+
+## pyenv 와 anaconda
 
 pyenv 를 기반을 파이썬 환경으 구성:
  - https://codingcoding.tistory.com/1077
