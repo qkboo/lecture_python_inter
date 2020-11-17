@@ -1,5 +1,10 @@
 # day2
 
+## 데이터 모델 노트북
+
+- [ch1_day2_1.ipynb](/day2/ch1_day2_1.ipynb)
+
+<br>
 ---
 
 ## File Input/Output
