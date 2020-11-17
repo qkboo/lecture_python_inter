@@ -3,6 +3,8 @@
 ## 데이터 모델 노트북
 
 - [ch1_day2_1.ipynb](/day2/ch1_day2_1.ipynb)
+- [ch1_day2_2.ipynb](/day2/ch1_day2_2.ipynb)
+
 
 <br>
 ---
