@@ -1,7 +1,6 @@
 # Day3
 
-## 1. Comprehension
+1. 함수
+2. 파일
 
-## 2. Module
-
-## 3. Decorator_1
+ - 파일까지 노트북: [Ch1_3File_1.ipynb](/day3/Ch1_3File_1.ipynb)
