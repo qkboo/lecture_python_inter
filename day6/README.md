@@ -2,7 +2,7 @@
 
 ## overring
 
-<img src='https://www.geeksforgeeks.org/wp-content/uploads/overriding-in-java.png' width='400'>
+<img src='https://i2.wp.com/www.studytonight.com/java/images/overloading-vs-overriding.jpg' width='400'>
                                                                                              
 
 ## List/Dict/Set Comprehension
